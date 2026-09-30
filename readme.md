@@ -2,9 +2,6 @@
 
 Apaixonado por tecnologia e tentando transformar ideias em projetos reais — um bug de cada vez.
 
-Sou desenvolvedor em formação e gosto de aprender colocando a mão na massa.
-Aqui no GitHub compartilho meus projetos, estudos, experiências e algumas das batalhas que travo pelo caminho.
-
 ## 💻 Tecnologias que já tenho mais base
 
 * 🌐 **JavaScript**
