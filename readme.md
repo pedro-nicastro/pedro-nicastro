@@ -15,7 +15,6 @@ Apaixonado por tecnologia e tentando transformar ideias em projetos reais — um
 * 📊 **Power BI**
 * 📈 **Análise de Dados**
 * 🎯 **C#**
-* ⚙️ **Desenvolvimento Backend**
 * 🏗️ **Arquitetura de Software**
 
 ## 🚀 O que curto
