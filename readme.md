@@ -7,12 +7,11 @@ Apaixonado por tecnologia e tentando transformar ideias em projetos reais — um
 * 🌐 **JavaScript**
 * 🧱 **HTML & CSS**
 * 🗄️ **SQL & MySQL**
-* ☕ **Java**
+* 🐍 **Python**
 
 ## 📚 Estudando e me aprofundando
 
-* ☕ **Java & Spring Boot** 
-* 🐍 **Python**
+* ☕ **Java** 
 * 📊 **Power BI**
 * 📈 **Análise de Dados**
 * 🎯 **C#**
