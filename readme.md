@@ -28,4 +28,4 @@ Apaixonado por tecnologia e tentando transformar ideias em projetos reais — um
 
 ---
 
-###Feito no Brasil, com código, café e alguns bugs.
+### Feito no Brasil, com código, café e alguns bugs.
