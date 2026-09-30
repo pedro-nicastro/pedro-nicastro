@@ -11,7 +11,7 @@ Apaixonado por tecnologia e tentando transformar ideias em projetos reais — um
 
 ## 📚 Estudando e me aprofundando
 
-* ☕ **Java & Spring Boot** — porque aparentemente eu escolhi sofrer
+* ☕ **Java & Spring Boot** 
 * 🐍 **Python**
 * 📊 **Power BI**
 * 📈 **Análise de Dados**
